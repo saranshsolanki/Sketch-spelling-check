@@ -10,7 +10,7 @@
     {
       "script" : "script.js",
       "handler" : "checkSpelling",
-      "name" : "Spelling",
+      "name" : "Spelling Check",
       "identifier" : "spelling",
       "shortcut" : "ctrl shift g",
     }

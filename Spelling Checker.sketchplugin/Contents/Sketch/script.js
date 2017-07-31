@@ -120,8 +120,8 @@ function spellingAllPage(context){
   }
 
   if (wrongSpelling == 0) {
-    app.displayDialog_withTitle("Well done. 🙌", "No issues found." +"\n" );
+    doc.displayMessage("Well done, no spelling mistakes found 🙌");
   } else {
-    app.displayDialog_withTitle("Happy fixing. 😇", "The text layers marked in red have wrong spelling.");
+    app.displayDialog_withTitle( "Happy fixing 😇", wrongSpelling+ " misspelled words found." + "\n" + "They are marked in red.");
   }
 };
