@@ -18,7 +18,7 @@ Check spelling of your text layers directly from Sketch. Just run the plugin onc
 3. The text with wrong spellings will be highlighted with a red color.
 
 # Next steps
-1. I'm working on a way to add another fill color to the wrongly slept text layers, without overwriting the existing style.
+1. I'm working on a way to add another fill color to the wrongly spelt text layers, without overwriting the existing style.
 2. Show suggestions for the wrongly spelt words.
 3. Auto-correct some of the wrongly spelt words.
 
